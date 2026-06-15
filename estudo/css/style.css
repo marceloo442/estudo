@@ -1,0 +1,58 @@
+/*
+menu : #c5c5b2
+conteudo : #4b566a
+link: #4b566a
+h1 : #828271
+*/
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background: #d2d2c1 url(/estudo/img/fundo.png);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: center;
+    display: flex;
+  
+}
+
+#principal { 
+    width: 900px;
+
+}
+
+#menu {
+    background: #c5c5b2 ;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0px;
+}
+
+#conteudo{ 
+    background: #e8e8d9;
+    padding: 15px;
+}
+
+#rodape { 
+    color: #4b566a;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+a { 
+    color: #4b566a ;
+    text-decoration:solid;
+    font-weight: bold;
+}
+
+h1 { 
+    color: #828271;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}

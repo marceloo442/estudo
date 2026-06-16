@@ -1,19 +1,32 @@
-Anna Bella - Projeto de Estudo HTML e CSS
+#  Anna Bella — Projeto de Estudo HTML & CSS
 
-Este projeto foi desenvolvido com o objetivo de praticar e aprimorar conhecimentos em HTML e CSS através da criação de um site fictício para a modelo Anna Bella. A página apresenta uma estrutura completa de website, incluindo menu de navegação, página inicial, campanhas publicitárias, biografia e área de contato.
+Site fictício criado para praticar e aprimorar habilidades em HTML e CSS, simulando a página oficial de uma modelo.
 
-Durante o desenvolvimento, foram aplicados conceitos fundamentais de desenvolvimento web, como organização de conteúdo com HTML semântico, estilização com CSS, utilização de imagens, criação de layouts responsivos e boas práticas de estruturação de páginas.
+##  Sobre o projeto
 
-Este projeto faz parte dos meus estudos em desenvolvimento front-end e foi criado exclusivamente para fins educacionais, servindo como exercício para reforçar conceitos básicos de construção e estilização de sites.
+A página apresenta uma estrutura completa de site com múltiplas seções, desenvolvida exclusivamente para fins educacionais como parte da minha jornada no front-end.
 
-Tecnologias utilizadas
-HTML5
-CSS3
-Objetivos do projeto
-Praticar a estruturação de páginas web.
-Aprender a trabalhar com menus e navegação.
-Aplicar estilos utilizando CSS.
-Organizar conteúdos de forma visualmente agradável.
-Desenvolver experiência com projetos front-end básicos.
+##  Seções do site
 
- Projeto desenvolvido apenas para fins de estudo e aprendizado.
+- **Menu de navegação**
+- **Página inicial** (Home)
+- **Campanhas publicitárias**
+- **Biografia**
+- **Área de contato**
+
+##  Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+##  Objetivos do projeto
+
+- Praticar a estruturação semântica de páginas web
+- Trabalhar com menus e navegação
+- Aplicar estilos e layouts com CSS
+- Organizar conteúdos de forma visualmente agradável
+- Desenvolver experiência com projetos front-end básicos
+
+---
+
+>  Projeto desenvolvido exclusivamente para fins de estudo e aprendizagem.
